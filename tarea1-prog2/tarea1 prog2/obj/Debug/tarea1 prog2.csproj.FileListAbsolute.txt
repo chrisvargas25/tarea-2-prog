@@ -1,9 +1,0 @@
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\bin\Debug\tarea1 prog2.exe.config
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\bin\Debug\tarea1 prog2.exe
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\bin\Debug\tarea1 prog2.pdb
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1 prog2.csprojAssemblyReference.cache
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1_prog2.Form1.resources
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1_prog2.Properties.Resources.resources
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1 prog2.csproj.GenerateResource.cache
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1 prog2.exe
-C:\Users\christofer vargas\source\repos\tarea1 prog2\tarea1 prog2\obj\Debug\tarea1 prog2.pdb
